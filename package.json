@@ -1,0 +1,30 @@
+{
+  "name": "control_consumos",
+  "version": "1.0.0",
+  "description": "ver gastos home",
+  "main": "index.php",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomanCray"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "RomanCray",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "alertifyjs": "^1.13.1",
+    "bootbox": "^5.5.3",
+    "bootstrap": "^4.4.0",
+    "bootstrap-icons": "^1.8.3",
+    "jquery": "^3.6.0",
+    "jquery-easing": "^0.0.1",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
+}
